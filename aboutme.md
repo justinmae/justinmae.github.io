@@ -6,7 +6,7 @@ subtitle: Hi, my name is Justin Mae.
 
 I'm a software engineer who is currently pursuing a Master's degree in Computer Science at NYU. Hoping to find my life's task, I've been exploring my interests in artificial intelligence, human learning and memory, robotics, and games. 
 
-Working as a quanitative analyst at AllianceBernstein, I develop tools that provide customized strategic asset allocation advice, which help private clients manage their money.
+Also working as a quantitative analyst at AllianceBernstein, I research and develop tools that provide customized strategic asset allocation advice, which help private clients manage their money.
 
 
 <!-- 
